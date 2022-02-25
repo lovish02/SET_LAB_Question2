@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 First change in mater.
 Second change in master.
+=======
+First change in mater
+This change is in branch 2.
+>>>>>>> branch2
